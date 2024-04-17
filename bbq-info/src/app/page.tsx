@@ -16,7 +16,8 @@ export default function page() {
         <p>to go to the last station - 皇后山邨總站 Queen Hill Estate B/T,</p>
         <p>and then walk to my bbq place within 10 minutes!</p>
       </div>
-      <p className=" mt-10">Yeaaaaaaaaa!</p>
+      <p className=" mt-5">Walk from bus station:</p>
+      <iframe src="https://www.google.com/maps/d/embed?mid=1ExqA4WYqcw9tVI7jkNnxIcyicNhaP6I&ehbc=2E312F" width="640" height="480"></iframe>
     </div>
   );
 }
