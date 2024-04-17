@@ -10,7 +10,7 @@ export default function page() {
       <div className=" inline-flex justify-center items-center gap-2">
         <p>You can take</p>
         <Link href={"https://hkbus.fandom.com/wiki/%E5%9F%8E%E5%B7%B479X%E7%B7%9A"} className=" underline cursor-pointer">Bus 79X</Link>
-        <p>to go to the last station - 皇后山邨總站 Queen's Hill Estate B/T,</p>
+        <p>to go to the last station - 皇后山邨總站 Queen Hill Estate B/T,</p>
         <p>and then walk to my bbq place within 10 minutes!</p>
       </div>
       <p className=" mt-10">Yeaaaaaaaaa!</p>
