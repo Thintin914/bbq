@@ -16,7 +16,13 @@ export default function page() {
         <p>to go to the last station - 皇后山邨總站 Queen Hill Estate B/T,</p>
         <p>and then walk to my bbq place within 10 minutes!</p>
       </div>
-      <p className=" mt-5">Walk from bus station:</p>
+      <p className=" mt-5 font-semibold">Walk from bus station:</p>
+      <p>Get out of bus station, walk straight til the end. You can see a roundabout there.</p>
+      <p>Go downhill at Po Kak Tsai Road, and then walk at the left hand side.</p>
+      <p>Walk straight without going to intersect roads.</p>
+      <p>Be careful of vehicles because there's no pedestrian road.</p>
+      <p>At Lau Shui Heung Road, go right hand side.</p>
+      <p>Walk straight and there you go!</p>
       <iframe src="https://www.google.com/maps/d/embed?mid=1ExqA4WYqcw9tVI7jkNnxIcyicNhaP6I&ehbc=2E312F" width="640" height="480"></iframe>
     </div>
   );
