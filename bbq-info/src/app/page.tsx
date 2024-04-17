@@ -1,12 +1,14 @@
 import Link from "next/link";
 
+export const dynamics = 'force-dynamics';
+
 export default function page() {
   return (
     <div className=" w-full min-h-screen h-fit bg-[#9DCDF1] text-white p-2 flex flex-col justify-center items-center">
       <p className=" font-semibold mb-5 text-lg">Yeaaa BBQ!</p>
       <p>Location:</p>
       <iframe src="https://www.google.com/maps/embed?pb=!4v1713359632930!6m8!1m7!1ssJkDLcP9cT3bZraeIWj14g!2m2!1d22.50099518653798!2d114.1670033918322!3f213.57240664844863!4f-21.0897225242678!5f0.7820865974627469" width="600" height="450"  loading="lazy"></iframe>
-      <Link className=" underline cursor-pointer" href={"https://maps.app.goo.gl/mMLWgSNHLUG5xRFP8"}>Link Here!</Link>
+      <Link className=" underline cursor-pointer" href={"https://www.google.com/maps/@22.5010071,114.1669033,3a,75y,233.86h,69.98t/data=!3m6!1e1!3m4!1sdUX0hSz8zfj8nIndf8TYig!2e0!7i16384!8i8192"}>Link Here!</Link>
       <p className=" mt-5">Traffic:</p>
       <div className=" inline-flex justify-center items-center gap-2">
         <p>You can take</p>
